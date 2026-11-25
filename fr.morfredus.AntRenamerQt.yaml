@@ -19,5 +19,5 @@ modules:
     sources:
       - type: git
         url: https://github.com/morfredus/ant-renamer-qt.git
-        tag: v3.3.0
-        commit: 42f828403bfcaeeb231b04a6bdc62a5712f4e2fe
+        tag: v3.3.1
+        commit: f596e646c476718459737cb9035e20bcb7f71617
